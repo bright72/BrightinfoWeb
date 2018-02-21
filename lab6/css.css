@@ -1,11 +1,14 @@
 img{
-    display: block;
+	
+	display: block;
     margin-left: auto;
     margin-right: auto;
     border: 20px;
 }
 .background-image{
 	background-image: url("Pool up (Hero Shot).jpg");
+	height: 200px;
+    width: 80%;
 }
 h1{
 	text-align: center;
